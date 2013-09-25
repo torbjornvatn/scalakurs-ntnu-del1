@@ -1,4 +1,4 @@
-name := "hello-scala"
+name := "scalakurs-ntnu-del1"
 
 version := "1.0"
 
